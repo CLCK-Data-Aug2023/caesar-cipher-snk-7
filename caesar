@@ -1,5 +1,3 @@
-matthew sanders
-
 letters = "abcdefghijklmnopqrstuvwxyz"
 new_letters = "fghijklmnopqrstuvwxyzabcde"
 
@@ -17,4 +15,4 @@ for letter in user_phrase:
     else:
         new_phrase += letter
 
-print("The encrypted sentence is:", new_phrase)# add your code here
+print("The encrypted sentence is:", new_phrase)
